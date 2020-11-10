@@ -8,3 +8,4 @@ git checkout 分支名 进入某个分支
 git checkout -b 新分支名 origin/远程分支名： 基于远程分支创建新的分支
 git branch -v: 查看本地分支
 git branch -a: 查看远程分支
+git merge xsa: 把'xsa'分支与当前分支合并
